@@ -1,0 +1,34 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\Projeto\Caixa_Eletronico\Caixa_Eletronico\bin\Debug\net6.0\Caixa_Eletronico.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\Projeto\Caixa_Eletronico\Caixa_Eletronico\bin\Debug\net6.0\Caixa_Eletronico.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Projeto\Caixa_Eletronico\Caixa_Eletronico\bin\Debug\net6.0\Caixa_Eletronico.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Projeto\Caixa_Eletronico\Caixa_Eletronico\bin\Debug\net6.0\Caixa_Eletronico.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Projeto\Caixa_Eletronico\Caixa_Eletronico\bin\Debug\net6.0\Caixa_Eletronico.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Projeto\Caixa_Eletronico\Caixa_Eletronico\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Projeto\Caixa_Eletronico\Caixa_Eletronico\obj\Debug\net6.0\Caixa_Eletronico.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Projeto\Caixa_Eletronico\Caixa_Eletronico\obj\Debug\net6.0\Caixa_Eletronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\Projeto\Caixa_Eletronico\Caixa_Eletronico\obj\Debug\net6.0\Caixa_Eletronico.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Projeto\Caixa_Eletronico\Caixa_Eletronico\obj\Debug\net6.0\Caixa_Eletronico.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\Projeto\Caixa_Eletronico\Caixa_Eletronico\obj\Debug\net6.0\Caixa_Eletronico.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Projeto\Caixa_Eletronico\Caixa_Eletronico\obj\Debug\net6.0\Caixa_Eletronico.csproj.CopyComplete
+C:\Users\pedro\OneDrive\Área de Trabalho\Projeto\Caixa_Eletronico\Caixa_Eletronico\obj\Debug\net6.0\Caixa_Eletronico.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Projeto\Caixa_Eletronico\Caixa_Eletronico\obj\Debug\net6.0\refint\Caixa_Eletronico.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Projeto\Caixa_Eletronico\Caixa_Eletronico\obj\Debug\net6.0\Caixa_Eletronico.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Projeto\Caixa_Eletronico\Caixa_Eletronico\obj\Debug\net6.0\Caixa_Eletronico.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Projeto\Caixa_Eletronico\Caixa_Eletronico\obj\Debug\net6.0\ref\Caixa_Eletronico.dll
+D:\Desktop\Projeto\Caixa_Eletronico\Caixa_Eletronico\bin\Debug\net6.0\Caixa_Eletronico.exe
+D:\Desktop\Projeto\Caixa_Eletronico\Caixa_Eletronico\bin\Debug\net6.0\Caixa_Eletronico.deps.json
+D:\Desktop\Projeto\Caixa_Eletronico\Caixa_Eletronico\bin\Debug\net6.0\Caixa_Eletronico.runtimeconfig.json
+D:\Desktop\Projeto\Caixa_Eletronico\Caixa_Eletronico\bin\Debug\net6.0\Caixa_Eletronico.dll
+D:\Desktop\Projeto\Caixa_Eletronico\Caixa_Eletronico\bin\Debug\net6.0\Caixa_Eletronico.pdb
+D:\Desktop\Projeto\Caixa_Eletronico\Caixa_Eletronico\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Desktop\Projeto\Caixa_Eletronico\Caixa_Eletronico\obj\Debug\net6.0\Caixa_Eletronico.csproj.AssemblyReference.cache
+D:\Desktop\Projeto\Caixa_Eletronico\Caixa_Eletronico\obj\Debug\net6.0\Caixa_Eletronico.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Projeto\Caixa_Eletronico\Caixa_Eletronico\obj\Debug\net6.0\Caixa_Eletronico.AssemblyInfoInputs.cache
+D:\Desktop\Projeto\Caixa_Eletronico\Caixa_Eletronico\obj\Debug\net6.0\Caixa_Eletronico.AssemblyInfo.cs
+D:\Desktop\Projeto\Caixa_Eletronico\Caixa_Eletronico\obj\Debug\net6.0\Caixa_Eletronico.csproj.CoreCompileInputs.cache
+D:\Desktop\Projeto\Caixa_Eletronico\Caixa_Eletronico\obj\Debug\net6.0\Caixa_Eletronico.csproj.CopyComplete
+D:\Desktop\Projeto\Caixa_Eletronico\Caixa_Eletronico\obj\Debug\net6.0\Caixa_Eletronico.dll
+D:\Desktop\Projeto\Caixa_Eletronico\Caixa_Eletronico\obj\Debug\net6.0\refint\Caixa_Eletronico.dll
+D:\Desktop\Projeto\Caixa_Eletronico\Caixa_Eletronico\obj\Debug\net6.0\Caixa_Eletronico.pdb
+D:\Desktop\Projeto\Caixa_Eletronico\Caixa_Eletronico\obj\Debug\net6.0\Caixa_Eletronico.genruntimeconfig.cache
+D:\Desktop\Projeto\Caixa_Eletronico\Caixa_Eletronico\obj\Debug\net6.0\ref\Caixa_Eletronico.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TO2K6XbSPr8JLiIR95ahODqZwaRASMU5SGwmZsoYT/7PuwqcE7DH+pE8gdqzZYYvmwaEiV4gihyh445cWUSWDQ==",
+  "success": true,
+  "projectFilePath": "D:\\Desktop\\Projeto\\Caixa_Eletronico\\Caixa_Eletronico\\Caixa_Eletronico.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
